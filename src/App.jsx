@@ -7,7 +7,7 @@ const CARDS_DATA = [
     { id: 3, title: "fly in space", review: "Calm, collected, and creative.", img: "/imgs/fly_stars.png" },
     { id: 4, title: "space... smth, idk", review: "Warm tones for a warm soul.", img: "/imgs/space_idk.png" },
     { id: 5, title: "Office Cat-Astrophe", review: "Endless possibilities ahead.", img: "/imgs/office_cat.png" },
-    { id: 6, title: "я пытался", review: "Zesty ideas that pop!", img: "/imgs/image6.jpg" },
+    { id: 6, title: "я пытался", review: "Вы старались. Спасибо за участие.", img: "/imgs/image6.jpg" },
 ];
 
 const WINNER_IDS = [5, 4];
